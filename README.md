@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishleo10" alt="manishleo10" /></a> </p>
 
-- 🔭 I’m currently working on **Transfer-Learning-NLP-using-TF-Hub**
+- 🔭 I’m currently working as a  **Data Science Analyst at TheMathCompany**
 
-- 🌱 I’m currently learning **Pytorch, Fastapi, Flask**
+- 🌱 I’m currently learning **dbt, Redshift, Snowflake**
 
-- 👯 I’m looking to collaborate on **kaggle projects**
+- 👯 I’m looking to collaborate on **Kaggle projects**
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/manishleo10/cyclistic-a-bike-sharing-company-case-study](https://www.kaggle.com/manishleo10/cyclistic-a-bike-sharing-company-case-study)
 
-- 💬 Ask me about **Data Science, Machine Learning**
+- 💬 Ask me about **Data Science, Data Engineering**
 
 - 📫 How to reach me **manishmiui.7@gmail.com**
 
