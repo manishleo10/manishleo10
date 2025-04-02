@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishleo10" alt="manishleo10" /></a> </p>
 
-- 🔭 I’m currently working as a  **Data Science Analyst at TheMathCompany**
+- 🔭 I’m currently working as a  **Data Engineer at TheMathCompany**
 
 - 🌱 I’m currently learning **dbt, Redshift, Snowflake**
 
